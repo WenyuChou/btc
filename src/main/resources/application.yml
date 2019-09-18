@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: wenyuzhou-btc
+  jackson:
+#设置时间格式，时差
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    tomcat:
+      max-idle: 10
+      max-wait: 50000
+      min-idle: 50
+      initial-size: 5
+    url: jdbc:mysql://47.94.140.189:3306/polycis_test?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: polycis123
+#mybatis配置
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    interceptors:
+#日志输出配置
+logging:
+  file: logs/spring-boot-logging.log
+  level:
+    org:
+      springframework: WARN
+    spring:
+      springboot:
+        dao: debug
+    com:
+      polycis:
+        qsjd:
+          dao: debug

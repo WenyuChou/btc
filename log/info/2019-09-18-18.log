@@ -1,0 +1,11 @@
+2019-09-18 18:10:18.578 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Starting BtcApplication on zhouwenyu with PID 6324 (F:\JavaProject\btc\target\classes started by Administrator in F:\JavaProject\btc)
+2019-09-18 18:10:18.582 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - No active profile set, falling back to default profiles: default
+2019-09-18 18:10:20.338 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-18 18:10:20.339 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-18 18:10:20.440 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-18 18:10:21.259 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Started BtcApplication in 3.673 seconds (JVM running for 5.21)
+2019-09-18 18:10:41.470 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-18 18:10:41.617 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-09-18 18:10:42.642 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-09-18 18:24:45.484 [http-nio-8080-exec-10] INFO  com.wenyuzhou.btc.controller.WatcherController - {"topPrice":"0","bottomPrice":"0"}
+2019-09-18 18:24:45.485 [http-nio-8080-exec-10] INFO  com.wenyuzhou.btc.controller.WatcherController - UserInfo(id=1, username=0627, password=0627, tel=null, email=null, qq=null, token=1a027225-4cb1-4372-b844-5aecabd56e8c, top=0.0, bottom=0.0, modifyTime=Wed Sep 18 18:24:42 CST 2019)

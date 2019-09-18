@@ -1,0 +1,28 @@
+2019-09-18 11:35:25.090 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Starting BtcApplication on zhouwenyu with PID 17084 (F:\JavaProject\btc\target\classes started by Administrator in F:\JavaProject\btc)
+2019-09-18 11:35:25.095 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - No active profile set, falling back to default profiles: default
+2019-09-18 11:35:27.097 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-18 11:35:27.097 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-18 11:35:27.198 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-18 11:35:28.229 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Started BtcApplication in 4.149 seconds (JVM running for 5.861)
+2019-09-18 11:35:39.445 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-18 11:35:39.666 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-09-18 11:35:40.671 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-09-18 11:43:46.268 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Starting BtcApplication on zhouwenyu with PID 14236 (F:\JavaProject\btc\target\classes started by Administrator in F:\JavaProject\btc)
+2019-09-18 11:43:46.272 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - No active profile set, falling back to default profiles: default
+2019-09-18 11:43:47.897 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-18 11:43:47.898 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-18 11:43:48.009 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-18 11:43:48.883 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Started BtcApplication in 3.527 seconds (JVM running for 4.975)
+2019-09-18 11:44:10.302 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-18 11:44:10.456 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-09-18 11:44:11.729 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-09-18 11:59:17.738 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Starting BtcApplication on zhouwenyu with PID 17820 (F:\JavaProject\btc\target\classes started by Administrator in F:\JavaProject\btc)
+2019-09-18 11:59:17.742 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - No active profile set, falling back to default profiles: default
+2019-09-18 11:59:19.400 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-18 11:59:19.401 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-18 11:59:19.505 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-18 11:59:20.328 [restartedMain] INFO  com.wenyuzhou.btc.BtcApplication - Started BtcApplication in 3.541 seconds (JVM running for 4.972)
+2019-09-18 11:59:30.474 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-18 11:59:30.605 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-09-18 11:59:31.716 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-09-18 11:59:33.915 [http-nio-8080-exec-2] INFO  com.wenyuzhou.btc.controller.WatcherController - {"topPrice":"0","bottomPrice":"0"}
